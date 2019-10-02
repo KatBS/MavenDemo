@@ -36,7 +36,7 @@ public class SeleniumTest {
 
 	    System.out.println(driver.getTitle());
 	    System.out.println("Ran successfully");
-	    System.out.println("Jenkins also configured");
+	    System.out.println("Jenkins also configured mostly");
 	    driver.quit();
 	}
 	
