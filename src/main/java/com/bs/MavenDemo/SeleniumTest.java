@@ -35,6 +35,7 @@ public class SeleniumTest {
 	    element.submit();
 
 	    System.out.println(driver.getTitle());
+	    System.out.println("Ran successfully");
 	    driver.quit();
 	}
 	
